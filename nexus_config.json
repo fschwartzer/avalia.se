@@ -20,7 +20,7 @@
             "sizeScale": "linear"
           },
           "config": {
-            "dataId": "nexus_data",
+            "dataId": "hex_data",
             "color": [
               250,
               116,
@@ -74,7 +74,7 @@
               }
             },
             "columns": {
-              "hex_id": "h3_hexagon"
+              "hex_id": "hex_id"
             }
           },
           "id": "jdys7lp"
@@ -88,8 +88,8 @@
         "tooltip": {
           "fieldsToShow": {
             "data_1": [
-              "h3_hexagon",
-              "RENDA"
+              "hex_id",
+              "value"
             ]
           },
           "enabled": true
@@ -103,10 +103,10 @@
       "bearing": 2.6192893401015205,
       "dragRotate": true,
       "zoom": 12.32053899007826,
-      "longitude": -52.5,
+      "longitude": -52.50132826930576,
       "isSplit": false,
-      "pitch": -29.7,
-      "latitude": -29.7
+      "pitch": 37.374216241015446,
+      "latitude": -29.716337573679947
     },
     "mapStyle": {
       "mapStyles": {},
